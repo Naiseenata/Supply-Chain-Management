@@ -1,4 +1,3 @@
-# Supply-Chain-Management
 # Supply Chain Management Project
 
 ![Project Image](https://github.com/Naiseenata/Supply-Chain-Management/blob/main/OIP.jpg)
