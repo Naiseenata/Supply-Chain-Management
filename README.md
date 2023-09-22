@@ -15,7 +15,7 @@ The primary goal of this project is to develop a data-driven solution that optim
 ## Key Steps
 
 - **Data Exploration and Preprocessing:** We started by exploring the dataset, identifying the types of features, and checking for missing values. Data cleaning and preprocessing were performed to ensure the dataset's quality and consistency.
-- **Model Development:** We applied multiple machine learning algorithms, including Linear Regression, Random Forest, Gradient Boosting, and Support Vector Machines, to predict the optimal product weight to be shipped from each warehouse. These models were trained on historical data to make predictions.
+- **Model Development:** We applied multiple machine learning algorithms, including Linear Regression, Random Forest, Gradient Boosting,decision tree,Bagging and Adaboost to predict the optimal product weight to be shipped from each warehouse. These models were trained on historical data to make predictions.
 
 - **Model Evaluation:** Each machine learning model was evaluated using appropriate metrics, such as Mean Squared Error (MSE), on a test dataset to assess its effectiveness in optimizing supply quantities. The model's performance provided insights into its predictive power.
 
